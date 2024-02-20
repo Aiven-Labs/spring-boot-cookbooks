@@ -5,3 +5,4 @@
 * [Redis cookbook](redis.md)
 * [Cassandra cookbook](cassandra.md)
 * [Kafka cookbook](kafka.md)
+* [Clickhouse cookbook](clickhouse.md)
