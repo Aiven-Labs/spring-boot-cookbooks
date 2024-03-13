@@ -1,0 +1,3 @@
+**/target/
+**/client.keystore.p12
+**/client.truststore.jks
